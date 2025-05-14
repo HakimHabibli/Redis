@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|c:\\users\\user\\onedrive\\desktop\\myproject\\redis\\redisproject\\redisproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|solutionrelative:redisproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|c:\\users\\user\\onedrive\\desktop\\myproject\\redis\\redisproject\\redisproject\\redisproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|solutionrelative:redisproject\\redisproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|c:\\users\\user\\onedrive\\desktop\\myproject\\redis\\redisproject\\redisproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|solutionrelative:redisproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|c:\\users\\user\\onedrive\\desktop\\myproject\\redis\\redisproject\\redisproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|solutionrelative:redisproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|c:\\users\\user\\onedrive\\desktop\\myproject\\redis\\redisproject\\redisproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D17ABFC-F347-4EA5-8B58-E396E010BC4D}|RedisProject\\RedisProject.csproj|solutionrelative:redisproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\Program.cs",
+              "RelativeDocumentMoniker": "RedisProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\Program.cs",
+              "RelativeToolTip": "RedisProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:44:54.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\appsettings.json",
+              "RelativeToolTip": "RedisProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T11:44:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisProject.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\RedisProject.csproj",
+              "RelativeDocumentMoniker": "RedisProject\\RedisProject.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\RedisProject.csproj",
+              "RelativeToolTip": "RedisProject\\RedisProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T11:43:55.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RedisProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RedisProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:43:45.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RedisProject\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MyProject\\Redis\\RedisProject\\RedisProject\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RedisProject\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T15:04:59.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
