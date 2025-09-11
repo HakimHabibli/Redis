@@ -32,6 +32,4 @@ Realtime vəziyyəti anlamaq və idarə etmək .
 Təsvir:
 İstifadəçilərə bildirişlərin Redis LIST strukturu ilə saxlanılması və ardıcıl şəkildə göstərilməsi. Sadə Queue kimi işləyir.
 
-Faydası:
-Queue və messaging məntiqinin başa düşülməsi.
 
