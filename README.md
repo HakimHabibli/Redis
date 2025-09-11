@@ -7,7 +7,7 @@ Dokumentasiya və framework ilə redisin əlaqələndirilməsi
 Faydası:
 Digər proyektlər üçün zəmin yaratmaq
 
-❌ 2. Hybrid Yorum Sistemi (sənin favoritin)
+❌ 2. Hybrid Yorum Sistemi 
 Təsvir:
 Yorumların özü SQL-də saxlanılır, ancaq view count / like / reply count kimi tez-tez dəyişən və oxunan dəyərlər Redis-də saxlanılır.
 
